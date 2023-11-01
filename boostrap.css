@@ -1,0 +1,33 @@
+
+img{
+    border-radius: 30%;
+    height: 140px;
+}
+.carrossel1{
+    display: flex;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    border: white;
+    border-radius: 50vh;
+    border-style: solid;
+}
+
+body{
+    background-image: url(./assets/tijolo.jpg);
+}
+
+
+  
+.pag2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
